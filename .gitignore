@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.vscode/
+.idea/
+
+# If you don't want to push large files (optional):
+# data/bus_data.csv
+# models/bus_model.joblib
